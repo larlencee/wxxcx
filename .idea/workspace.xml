@@ -24,11 +24,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WxxcxServiceProvider.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WxxcxServiceProvider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WxxcxServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
               <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,16 +69,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
               <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WXBizDataCrypt.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WXBizDataCrypt.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -104,17 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ErrorCode.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ErrorCode.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/PKCS7Encoder.php" />
         <option value="$PROJECT_DIR$/src/ErrorCode.php" />
         <option value="$PROJECT_DIR$/src/WxxcxServiceProvider.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -137,11 +141,11 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-7" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -165,11 +169,6 @@
               <item name="wxxcx" type="b2602c69:ProjectViewProjectNode" />
               <item name="wxxcx" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="wxxcx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wxxcx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +180,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\wwwroot\wxxcx" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530596717711</updated>
-      <workItem from="1530596719084" duration="2075000" />
+      <workItem from="1530596719084" duration="2370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2075000" />
+    <option name="totallyTimeSpent" value="2370000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,6 +341,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
