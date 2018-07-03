@@ -1,0 +1,15 @@
+{
+    "name": "larlencee/laravel-wxxcx",
+    "description": "laravel mini program",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larlencee\\Wxxcx\\": "src/"
+        }
+    }
+}
